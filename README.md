@@ -8,7 +8,7 @@ I am a regular passenger of Light Rail Transit (LRT) trains here in Metro Manila
 1. Is there a trend for LRT-2 ridership as a function of the months?
 2. How can we describe the annual passenger traffic (entry + exit) for each station? 
 3. Which station has the highest daily passenger traffic on average?
-4. What day has the highest ridership on average?
+4. What is the average daily ridership of LRT-2, and what day has the highest ridership on average?
 5. In what station do passengers of LRT-2 tend to enter?
 6. In what station do passengers of LRT-2 tend to exit?
 
