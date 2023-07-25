@@ -19,5 +19,5 @@ Since LRT Authority is owned by the government, my plan is to get LRT-2 data fro
 
 ![image](https://github.com/marvin-rubia/2022-LRT-2-Ridership-Analysis/assets/140475770/6b757d8f-a911-4c4b-b66c-5f0aad01900f)
 
-## How to see my data wrangling, analysis, and insights
+## How to see my data wrangling, analysis, and insights?
 Refer to the uploaded Jupyter Notebook that contains the full report, from the problem to the insights. Check the Data folder to see files for the LRT-2 monthly ridership data in 2022.
