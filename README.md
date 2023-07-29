@@ -15,7 +15,7 @@ I am a regular passenger of Light Rail Transit (LRT) trains here in Metro Manila
 *I have eaten too many siomai snacks before or after my train rides since college. 
 
 ## Plan 
-Since LRT Authority is owned by the government, my plan is to get LRT-2 data from the Freedom of Information (FOI) website. Due to the long waiting time before one can get the data upon their requests (with a possibility of being unsuccessful after the wait), I am going to use the available 2022 LRT-2 data that another person already requested. (The conversation between the FOI officer and the citizen is public.) The ridership data goes from January 1, 2022 to Dec 31, 2022. These are enough to extract insights about our problem. Unfortunately, the daily ridership data for each month of 2022 are in PDF format. I have to convert the twelve PDF files into twelve Excel files before doing the data wrangling.
+Since LRT Authority is owned by the government, my plan is to get LRT-2 data from the Freedom of Information (FOI) website. Due to the long waiting time before one can get the data upon their requests (with a possibility of being unsuccessful after the wait), I am going to use the available 2022 LRT-2 data that another person already requested. (The conversation between the FOI officer and the citizen is public.) The ridership data goes from January 1, 2022 to Dec 31, 2022. These are enough to extract insights about our problem. Unfortunately, the daily ridership data for each month of 2022 are in PDF format. I have to convert the twelve PDF files into twelve Excel files before doing the data wrangling and exploratory data analysis.
 
 ![image](https://github.com/marvin-rubia/2022-LRT-2-Ridership-Analysis/assets/140475770/6b757d8f-a911-4c4b-b66c-5f0aad01900f)
 
