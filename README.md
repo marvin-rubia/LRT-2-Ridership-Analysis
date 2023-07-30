@@ -5,7 +5,9 @@
 
 I am a regular passenger of Light Rail Transit (LRT) trains here in Metro Manila. I observe that there are business kiosks near the station's entrance and exit areas. This made me wonder: __if I would franchise a siomai-rice* business (for example), which offers instant food for our hurrying commuters, in what LRT-2 station should I place it?__ In other words, what LRT-2 station has the highest passenger traffic? 
 
-As a curious passenger, I also like to know what day is the most hectic (i.e. highest passenger traffic) and least hectic (i.e. lowest passenger traffic). These are only two of the six questions I explored in this analysis. The six questions are given below and all of them try to extract LRT-2-related business and transportation insights using its daily ridership data in 2022.
+As a curious passenger, I also like to know: what day is the most hectic (i.e. highest ridership) and least hectic (i.e. lowest ridership)? 
+
+These are only two of the six questions I explored in this analysis. The six questions are given below and all of them try to extract LRT-2-related business and transportation insights using its daily ridership data in 2022.
 
 1. Is there a trend for LRT-2 ridership as a function of the months?
 2. How can we describe the annual passenger traffic (entry + exit) for each station? 
