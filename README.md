@@ -25,3 +25,6 @@ Since LRT Authority is owned by the government, my plan is to get LRT-2 data fro
 
 ## How to see my data wrangling, analysis, and insights?
 Refer to the uploaded Jupyter Notebook that contains the full report, from the problem to the insights. You can view it here on GitHub or download it to run in your Jupyter environment. Check the Data folder to see the source files for the LRT-2 monthly ridership data in 2022.
+
+## Care more about the insights than the code?
+I wrote an article where I discuss the data-driven answers to the 6 questions above. Read my article here: [In what train station should we place our business/franchise? Insights from ridership data of LRT-2 in Metro Manila](https://marvinrubia.medium.com/in-what-train-station-should-we-place-our-business-franchise-e0686c1142f7).
