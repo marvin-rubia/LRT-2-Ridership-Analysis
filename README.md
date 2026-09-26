@@ -24,7 +24,7 @@ Since LRT Authority is owned by the government, my plan is to get LRT-2 data fro
 ![image](https://github.com/marvin-rubia/2022-LRT-2-Ridership-Analysis/assets/140475770/6b757d8f-a911-4c4b-b66c-5f0aad01900f)
 
 ## How to see my data wrangling, analysis, and insights?
-Refer to the uploaded Jupyter Notebook that contains the full report, from the problem to the insights. You can view it here on GitHub or download it to run in your Jupyter environment. Check the Data folder to see the source files for the LRT-2 monthly ridership data in 2022.
+Refer to the [uploaded Jupyter Notebook](https://github.com/marvin-rubia/LRT-2-Ridership-Analysis/blob/main/Project_2022%20LRT2%20Analysis_From%20PDFs%20to%20Insights.ipynb) that contains the full report, from the problem to the insights. You can view it here on GitHub or download it to run in your Jupyter environment. Check the Data folder to see the source files for the LRT-2 monthly ridership data in 2022.
 
 ## Care more about the insights than the code?
 I wrote an article where I discuss the data-driven answers to the 6 questions above. Read my article here: [In what train station should we place our business/franchise? Insights from ridership data of LRT-2 in Metro Manila](https://marvinrubia.medium.com/in-what-train-station-should-we-place-our-business-franchise-e0686c1142f7).
